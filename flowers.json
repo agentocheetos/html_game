@@ -57,7 +57,7 @@
 "meta": {
 	"app": "https://www.codeandweb.com/texturepacker",
 	"version": "1.0",
-	"image": "flowers.png",
+	"image": "https://i.imgur.com/fPonTRd.png",
 	"format": "RGBA8888",
 	"size": {"w":118,"h":172},
 	"scale": "1",
